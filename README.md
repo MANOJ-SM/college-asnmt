@@ -1,1 +1,1 @@
-# college-asnmt
+# internship-asnmt
